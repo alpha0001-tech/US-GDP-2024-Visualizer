@@ -1,0 +1,5 @@
+{
+  "name": "US GDP 2024 Visualizer",
+  "description": "An interactive 3D-style map dashboard visualizing United States GDP data for 2024 with comparison tools and minimalist design.",
+  "requestFramePermissions": []
+}
